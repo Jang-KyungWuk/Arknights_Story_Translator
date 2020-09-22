@@ -19,6 +19,9 @@ This repository has 1 ipynb file, 1 md file and 1 folder with test results
 This folder contains result of test trial\
 sample video for testing was [RI-3 before operation story video](https://drive.google.com/file/d/1Ox_66tuYEsFA5C9Eh9oAad4vf1d9XjKe/view?usp=sharing)
 
+이 폴더에는 테스트의 결과물들을 담고 있습니다.\
+테스트를 위해 사용된 샘플 영상은 [RI-3 작전전 스토리 영상](https://drive.google.com/file/d/1Ox_66tuYEsFA5C9Eh9oAad4vf1d9XjKe/view?usp=sharing)입니다.
+
 > ### arknights_2020-08-25-22-05-12-tr.txt
 > txt file contains translation result\
 > 번역 결과를 저장한 txt 파일입니다.
