@@ -24,7 +24,7 @@ sample video for testing was [RI-3 before operation story video](https://drive.g
 > 번역 결과를 저장한 txt 파일입니다.
 >
 > ### scene 1.jpg ~ scene 7.jpg
-> jpg image files with 10 dialogues each. 
+> jpg image files with 10 dialogues each.\
 > 대사를 10개씩 저장한 jpg 이미지 파일입니다.
 
 ## Arknights Story Translator.ipynb
