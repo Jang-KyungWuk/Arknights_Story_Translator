@@ -2,6 +2,8 @@
 
 This repository has 1 ipynb file, 1 md file and 1 folder with test results
 
+이 저장소에는 1개의 ipynb 파일, 1개의 md 파일과 테스트 결과를 담고있는 1개의 폴더가 있습니다.
+
 > 1. test_result
 >> tr1. arknights_2020-08-25-22-05-12-tr.txt\
 >> tr2. scene 1.jpg\
